@@ -1,2 +1,2 @@
 # dividendos
-Sistema para gerenciamento e previsão de dividendos de ações
+Sistema para gerenciamento de dividendos de ações
